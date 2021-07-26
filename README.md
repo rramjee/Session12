@@ -1,5 +1,9 @@
 # Session 12 Assignment
 
+Link to DeepNote
+
+https://deepnote.com/project/Untitled-Python-Project-A5eG6UT0SLCJ5NPYOT34jQ/%2FLazy%20Iterator%20and%20Iterable%20Session.ipynb
+
 ## Lazy Iterator and Iterables
 
 Lazy Iterators are iterators that do not load entire dataset in memory but load only required information at every iteration. This is such a useful feature that has plenty of uses in real world implementations.
